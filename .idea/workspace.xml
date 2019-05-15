@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e32f73d6-c9e5-4a67-af57-1987ba5d84aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="595" column="195" selection-start-line="595" selection-start-column="195" selection-end-line="595" selection-end-column="195" />
+            <state relative-caret-position="345">
+              <caret line="804" column="41" selection-start-line="804" selection-start-column="41" selection-end-line="804" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -103,15 +102,16 @@
       <updated>1557088222087</updated>
       <workItem from="1557088225353" duration="4979000" />
       <workItem from="1557508578001" duration="7130000" />
-      <workItem from="1557953120153" duration="894000" />
+      <workItem from="1557953120153" duration="1301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13003000" />
+    <option name="totallyTimeSpent" value="13410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -159,8 +159,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="595" column="195" selection-start-line="595" selection-start-column="195" selection-end-line="595" selection-end-column="195" />
+        <state relative-caret-position="345">
+          <caret line="804" column="41" selection-start-line="804" selection-start-column="41" selection-end-line="804" selection-end-column="41" />
         </state>
       </provider>
     </entry>
