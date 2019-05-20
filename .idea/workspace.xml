@@ -13,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="748" column="29" selection-start-line="748" selection-start-column="20" selection-end-line="748" selection-end-column="29" />
+            <state relative-caret-position="105">
+              <caret line="858" column="14" lean-forward="true" selection-start-line="858" selection-start-column="14" selection-end-line="858" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="241">
-              <caret line="3043" column="45" selection-start-line="3043" selection-start-column="45" selection-end-line="3043" selection-end-column="45" />
+              <caret line="3043" column="54" lean-forward="true" selection-start-line="3043" selection-start-column="54" selection-end-line="3043" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -48,6 +48,7 @@
       <find>styleshout</find>
       <find>say hello</find>
       <find>overlay</find>
+      <find>contact</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -56,8 +57,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -129,12 +130,12 @@
       <workItem from="1557508578001" duration="7130000" />
       <workItem from="1557953120153" duration="4588000" />
       <workItem from="1558167807349" duration="3023000" />
-      <workItem from="1558358010570" duration="548000" />
+      <workItem from="1558358010570" duration="815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20268000" />
+    <option name="totallyTimeSpent" value="20535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -166,13 +167,6 @@
     <entry file="file://F:/Users/Daveux/Videos/Videos/Series/season 6/Game.of.Thrones.S06E05.720p.WEB-DL.x264.ShAaNiG.srt" />
     <entry file="file://F:/Users/Daveux/Videos/Videos/Series/season 6/Game.of.Thrones.S06E06.480p.HDTV.x264-DDMKV.srt" />
     <entry file="file://F:/Users/Daveux/Videos/Videos/Series/season 6/Game.of.Thrones.S06E04.480p.srt" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="748" column="29" selection-start-line="748" selection-start-column="20" selection-end-line="748" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../odeyinka/delegationlead.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -183,7 +177,14 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
-          <caret line="3043" column="45" selection-start-line="3043" selection-start-column="45" selection-end-line="3043" selection-end-column="45" />
+          <caret line="3043" column="54" lean-forward="true" selection-start-line="3043" selection-start-column="54" selection-end-line="3043" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="858" column="14" lean-forward="true" selection-start-line="858" selection-start-column="14" selection-end-line="858" selection-end-column="14" />
         </state>
       </provider>
     </entry>
