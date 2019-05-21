@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="189" column="18" lean-forward="true" selection-start-line="180" selection-start-column="12" selection-end-line="189" selection-end-column="18" />
+            <state relative-caret-position="173">
+              <caret line="140" column="19" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -52,6 +52,7 @@
       <find>logo.p</find>
       <find>minimali</find>
       <find>contact</find>
+      <find>howdy</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -134,12 +135,12 @@
       <workItem from="1557508578001" duration="7130000" />
       <workItem from="1557953120153" duration="4588000" />
       <workItem from="1558167807349" duration="3023000" />
-      <workItem from="1558358010570" duration="9390000" />
+      <workItem from="1558358010570" duration="9909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29110000" />
+    <option name="totallyTimeSpent" value="29629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -206,8 +207,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="189" column="18" lean-forward="true" selection-start-line="180" selection-start-column="12" selection-end-line="189" selection-end-column="18" />
+        <state relative-caret-position="173">
+          <caret line="140" column="19" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
         </state>
       </provider>
     </entry>
