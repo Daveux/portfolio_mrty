@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="531" column="31" lean-forward="true" selection-start-line="531" selection-start-column="31" selection-end-line="531" selection-end-column="31" />
+            <state relative-caret-position="358">
+              <caret line="174" column="30" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="174" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -48,9 +48,10 @@
       <find>styleshout</find>
       <find>say hello</find>
       <find>overlay</find>
-      <find>contact</find>
       <find>hola</find>
       <find>logo.p</find>
+      <find>minimali</find>
+      <find>contact</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -60,6 +61,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/cylinder.h" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -132,12 +134,12 @@
       <workItem from="1557508578001" duration="7130000" />
       <workItem from="1557953120153" duration="4588000" />
       <workItem from="1558167807349" duration="3023000" />
-      <workItem from="1558358010570" duration="3587000" />
+      <workItem from="1558358010570" duration="9112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23307000" />
+    <option name="totallyTimeSpent" value="28832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -169,10 +171,22 @@
     <entry file="file://F:/Users/Daveux/Videos/Videos/Series/season 6/Game.of.Thrones.S06E05.720p.WEB-DL.x264.ShAaNiG.srt" />
     <entry file="file://F:/Users/Daveux/Videos/Videos/Series/season 6/Game.of.Thrones.S06E06.480p.HDTV.x264-DDMKV.srt" />
     <entry file="file://F:/Users/Daveux/Videos/Videos/Series/season 6/Game.of.Thrones.S06E04.480p.srt" />
-    <entry file="file://$PROJECT_DIR$/../odeyinka/delegationlead.html">
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/VGA_Param.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/model.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/finalproj.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/projstructs.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/cylinder.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="75" column="172" selection-start-line="75" selection-start-column="127" selection-end-line="75" selection-end-column="172" />
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -183,10 +197,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../odeyinka/delegationlead.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="75" column="172" selection-start-line="75" selection-start-column="127" selection-end-line="75" selection-end-column="172" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="531" column="31" lean-forward="true" selection-start-line="531" selection-start-column="31" selection-end-line="531" selection-end-column="31" />
+        <state relative-caret-position="358">
+          <caret line="174" column="30" lean-forward="true" selection-start-line="171" selection-start-column="24" selection-end-line="174" selection-end-column="30" />
         </state>
       </provider>
     </entry>
