@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="663" column="68" selection-start-line="663" selection-start-column="68" selection-end-line="663" selection-end-column="68" />
+            <state relative-caret-position="177">
+              <caret line="384" column="30" lean-forward="true" selection-start-line="384" selection-start-column="30" selection-end-line="384" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="241">
-              <caret line="3043" column="54" lean-forward="true" selection-start-line="3043" selection-start-column="54" selection-end-line="3043" selection-end-column="54" />
+              <caret line="3043" column="54" selection-start-line="3043" selection-start-column="54" selection-end-line="3043" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -135,12 +135,12 @@
       <workItem from="1557508578001" duration="7130000" />
       <workItem from="1557953120153" duration="4588000" />
       <workItem from="1558167807349" duration="3023000" />
-      <workItem from="1558358010570" duration="10820000" />
+      <workItem from="1558358010570" duration="13424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30540000" />
+    <option name="totallyTimeSpent" value="33144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -194,7 +194,7 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
-          <caret line="3043" column="54" lean-forward="true" selection-start-line="3043" selection-start-column="54" selection-end-line="3043" selection-end-column="54" />
+          <caret line="3043" column="54" selection-start-line="3043" selection-start-column="54" selection-end-line="3043" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -207,8 +207,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="663" column="68" selection-start-line="663" selection-start-column="68" selection-end-line="663" selection-end-column="68" />
+        <state relative-caret-position="177">
+          <caret line="384" column="30" lean-forward="true" selection-start-line="384" selection-start-column="30" selection-end-line="384" selection-end-column="30" />
         </state>
       </provider>
     </entry>
