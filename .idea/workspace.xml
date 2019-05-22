@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="317" column="357" selection-start-line="317" selection-start-column="357" selection-end-line="317" selection-end-column="357" />
+            <state relative-caret-position="156">
+              <caret line="381" column="530" lean-forward="true" selection-start-line="381" selection-start-column="464" selection-end-line="381" selection-end-column="530" />
             </state>
           </provider>
         </entry>
@@ -95,6 +95,7 @@
       <find>im-ins</find>
       <find>facebook</find>
       <find>im-li</find>
+      <find>item-folio__cap</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -190,12 +191,12 @@
       <workItem from="1557508578001" duration="7130000" />
       <workItem from="1557953120153" duration="4588000" />
       <workItem from="1558167807349" duration="3023000" />
-      <workItem from="1558358010570" duration="19255000" />
+      <workItem from="1558358010570" duration="19534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38975000" />
+    <option name="totallyTimeSpent" value="39254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -286,8 +287,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="317" column="357" selection-start-line="317" selection-start-column="357" selection-end-line="317" selection-end-column="357" />
+        <state relative-caret-position="156">
+          <caret line="381" column="530" lean-forward="true" selection-start-line="381" selection-start-column="464" selection-end-line="381" selection-end-column="530" />
         </state>
       </provider>
     </entry>
