@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10773">
-              <caret line="654" column="338" selection-start-line="654" selection-start-column="338" selection-end-line="654" selection-end-column="338" />
+            <state relative-caret-position="-113">
+              <caret line="34" column="65" lean-forward="true" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -197,7 +197,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41450000" />
+    <option name="totallyTimeSpent" value="42339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -228,29 +228,15 @@
     <entry file="file://F:/Users/Daveux/Videos/Videos/Series/season 6/Game.of.Thrones.S06E05.720p.WEB-DL.x264.ShAaNiG.srt" />
     <entry file="file://F:/Users/Daveux/Videos/Videos/Series/season 6/Game.of.Thrones.S06E06.480p.HDTV.x264-DDMKV.srt" />
     <entry file="file://F:/Users/Daveux/Videos/Videos/Series/season 6/Game.of.Thrones.S06E04.480p.srt" />
-    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/VGA_Param.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/model.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/finalproj.c">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/projstructs.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/cylinder.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/VGA_Param.h" />
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/model.h" />
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/finalproj.c" />
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/projstructs.h" />
+    <entry file="file://F:/Users/Daveux/Documents/Textbooks n Lectures/500/CPE 509/hkc2_zk29_code/cylinder.h" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10773">
-          <caret line="654" column="338" selection-start-line="654" selection-start-column="338" selection-end-line="654" selection-end-column="338" />
+        <state relative-caret-position="-113">
+          <caret line="34" column="65" lean-forward="true" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
         </state>
       </provider>
     </entry>
